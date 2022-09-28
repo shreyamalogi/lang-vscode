@@ -1,0 +1,5 @@
+C:\Users\5hre9\repos\practice\c>gcc hi.c -o hi.exe
+
+C:\Users\5hre9\repos\practice\c>hi.exe
+Hello, World!
+C:\Users\5hre9\repos\practice\c>

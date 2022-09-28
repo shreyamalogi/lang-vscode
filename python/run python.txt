@@ -1,0 +1,2 @@
+C:\Users\5hre9\repos\practice\python>python fib.py
+34

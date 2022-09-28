@@ -1,0 +1,6 @@
+
+C:\Users\5hre9\repos\practice\cpp>g++ hi.cpp -o hi.exe
+
+C:\Users\5hre9\repos\practice\cpp>hi.exe
+Hello World!
+C:\Users\5hre9\repos\practice\cpp>

@@ -1,0 +1,6 @@
+C:\Users\5hre9\repos\practice\js>node fib.js
+Fibonacci Series:
+0
+1
+
+C:\Users\5hre9\repos\practice\js>

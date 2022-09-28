@@ -1,0 +1,11 @@
+
+C:\Users\5hre9\repos\practice\java\programs\src>javac pas.java
+
+C:\Users\5hre9\repos\practice\java\programs\src>java pas.java
+      1
+     1 1
+    1 2 1
+   1 3 3 1
+  1 4 6 4 1
+
+C:\Users\5hre9\repos\practice\java\programs\src>

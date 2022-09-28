@@ -1,0 +1,47 @@
+coding all lang on vscode
+
+c
+download gcc compiler and set path
+look for vscode verified c extentions and install it
+open vscode (upper part for code and below is the cmd)
+compile : gcc <filename>.c -o <filename>.exe
+run : <filename>.exe
+
+cpp
+download gcc compiler and set path
+look for vscode verified cpp extentions and install it
+open vscode (upper part for code and below is the cmd)
+compile : gcc <filename>.cpp -o <filename>.exe
+run : <filename>.exe
+
+java
+download jdk
+open vscode (upper part for code and below is the cmd)
+look for vscode verified java extentions and install it
+create a java project folder by ctrl+shift+p name it as eg:javabook
+go to source and click app.java
+now again ctrl+shift+p and select java: new class file
+keep as eg:  hi
+comment out or delete package io.github.jiangdequan;
+everything must be inside this along with main method
+
+    public class hi {
+    
+    
+}
+
+compilation: javac <filename.java>
+run:java <filename.java>
+
+js, py, dart
+download node and set path
+download python and set path
+download flutter sdk or dart sdk
+look for vscode verified js,py,dart extentions and install it
+open vscode (upper part for code and below is the cmd)
+run: node <filename.js>
+     dart <filename.dart>
+     python <filename.py>
+
+
+
